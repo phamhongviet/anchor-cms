@@ -12,7 +12,20 @@ body, html {
 }
 
 .top .btn {
-	display: none;
+	/*display: none;*/
+	margin-top: 4px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.sidebar {
+	width: 100%;
+	float: none;
+}
+
+.sidebar + .main {
+	width: 100%;
+	float: none;
 }
 
 .list, .list li {
