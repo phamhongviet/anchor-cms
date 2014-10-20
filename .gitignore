@@ -19,6 +19,7 @@ Thumbs.db
 # debug and custom themes
 /themes/*
 !/themes/default
+!/themes/phv
 
 # uploaded content
 /content/*

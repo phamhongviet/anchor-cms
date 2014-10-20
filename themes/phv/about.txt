@@ -1,0 +1,5 @@
+Theme name:    PHV
+Description:   PHV theme for Anchor CMS. Even simpler than the default
+Author name:   Viet Pham
+Author site:   http://phv.16mb.com
+License:       GPLv3
